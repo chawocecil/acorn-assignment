@@ -22,6 +22,7 @@ class Course extends Content
             'type' => $this->type,
             'status' => $this->status,
             'duration' => $this->duration,
+            'bgColor' => 'secondary.light',
             'recommenedLevels' => $this->recommenedLevels,
         ];
     }

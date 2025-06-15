@@ -13,6 +13,7 @@ class LiveLearning extends Content
             'image' => $this->image,
             'type' => $this->type,
             'status' => $this->status,
+            'bgColor' => 'primary.light',
             'recommenedLevels' => $this->recommenedLevels,
         ];
     }

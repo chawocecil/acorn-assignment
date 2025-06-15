@@ -14,12 +14,12 @@ import { TypeIcon } from "./Icons";
 const sanitizeContent = (content = "") => content.replace(/<\/?script>/g, "");
 
 const CatalogueModal = ({ isOpen, data, onClose }) => {
-    const { type, title, status, summary, recommenedLevels } = data;
+    const { type, title, status, summary, recommenedLevels, bgColor } = data;
 
     return (
         <Dialog open={isOpen} onClose={onClose} fullWidth maxWidth="md">
             <DialogTitle
-                sx={{ backgroundColor: "primary.light", color: "white" }}
+                sx={{ backgroundColor: bgColor, color: "white" }}
             >
                 <Box display="flex" flexDirection="column">
                     <Box
