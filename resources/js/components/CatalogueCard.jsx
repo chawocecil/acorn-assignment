@@ -8,7 +8,7 @@ import {
     CardContent,
     Typography,
 } from "@mui/material";
-import { LiveTv, LocalLibrary } from "@mui/icons-material";
+import { TypeIcon } from "./Icons";
 
 const StatusChip = ({ label, color }) => (
     <Chip
@@ -19,11 +19,11 @@ const StatusChip = ({ label, color }) => (
     />
 );
 
-export default function CatalogueCard({ data }) {
+export default function CatalogueCard({ data, onClick }) {
     const { image, title, status, type: contentType, duration } = data;
     return (
         <Grid size={{ xs: 12, md: 4, sm: 6 }}>
-            <Card>
+            <Card onClick={() => onClick(data)}>
                 <Box sx={{ position: "relative" }}>
                     <CardMedia
                         component="img"
@@ -39,14 +39,11 @@ export default function CatalogueCard({ data }) {
                     </Typography>
                 </CardContent>
                 <CardActions>
-                    {contentType === "Course" ? (
-                        <>
-                            <LocalLibrary color={status.color}/>
-                            <Typography variant="body2">{duration}</Typography>
-                        </>
-                    ) : (
-                        <LiveTv color={status.color}/>
-                    )}
+                    <TypeIcon
+                        type={contentType}
+                        duration={duration}
+                        color={status.color}
+                    />
                 </CardActions>
             </Card>
         </Grid>
