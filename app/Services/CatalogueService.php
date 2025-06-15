@@ -14,6 +14,9 @@ class CatalogueService
     public function getAll(): Collection
     {
         try {
+            // TODO: fetch data from acorn server instead of json
+            // couldn't authenticate the request, so used sample data from api documentation
+            // sample api integrated in Services/ExternalApiClient.php
             $json = Storage::get('catalogue.json');
             $items = json_decode($json, true)['data']['items'] ?? [];
 
