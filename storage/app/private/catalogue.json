@@ -1,0 +1,500 @@
+{
+    "status": "Complete",
+    "data": {
+        "items": [
+            {
+                "fullname": "Building Resilience",
+                "summary": "<h2><strong>Purpose&nbsp;</strong></h2>\n<p>This module introduces new &amp; existing employees to the importance of building resilience in the workplace.<strong>&nbsp;</strong></p>\n<p>The module addresses&nbsp;the effects of&nbsp;workplace events on&nbsp;individual stress and goal-achievement, and how building resilience can benefit&nbsp;the individual&rsquo;s ability to &ldquo;bounce back&rdquo; and stay on track.&nbsp;</p>\n<p><strong>Learning outcomes&nbsp;</strong></p>\n<p>By completing this module participants will be able to:&nbsp;</p>\n<ul>\n<li>Define resilience&nbsp;and outline why it is important in the workplace&nbsp;</li>\n<li>Identify&nbsp;a range of situations within and outside&nbsp;their locus of control&nbsp;</li>\n<li>Recognise&nbsp;how individual character strengths can help build resilience&nbsp;</li>\n<li>Demonstrate&nbsp;how the skill of resilience&nbsp;can be applied to &ldquo;bounce back&rdquo;.&nbsp;</li>\n</ul>\n<p>&nbsp;<strong>Topics&nbsp;</strong></p>\n<p>Topics addressed in this module are:&nbsp;</p>\n<ul>\n<li>Definition and benefits of resilience&nbsp;</li>\n<li>Internal locus of control, self-awareness, and self-regulation&nbsp;</li>\n<li>Recognising&nbsp;and utilizing character strengths&nbsp;</li>\n<li>&ldquo;Bouncing back&rdquo; from&nbsp;unavoidable setbacks and&nbsp;retaining focus.&nbsp;</li>\n</ul>\n<p>This module should take 20 minutes to complete.</p>",
+                "summarytext": "Purpose \nThis module introduces new & existing employees to the importance of building resilience in the workplace. \nThe module addresses the effects of workplace events on individual stress and goal-achievement, and how building resilience can benefit the individual’s ability to “bounce back” and stay on track. \nLearning outcomes \nBy completing this module participants will be able to: \n\nDefine resilience and outline why it is important in the workplace \nIdentify a range of situations within and outside their locus of control \nRecognise how individual character strengths can help build resilience \nDemonstrate how the skill of resilience can be applied to “bounce back”. \n\n Topics \nTopics addressed in this module are: \n\nDefinition and benefits of resilience \nInternal locus of control, self-awareness, and self-regulation \nRecognising and utilizing character strengths \n“Bouncing back” from unavoidable setbacks and retaining focus. \n\nThis module should take 20 minutes to complete.",
+                "contenttype": "Course",
+                "url": "https://staging.acornlms.com/view_course/711",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/6863/course/overviewfiles/0/plant%20grow401213.jpeg",
+                "badge": "https://staging.acornlms.com/pluginfile.php/6863/badges/badgeimage/57/f1?refresh=6778",
+                "completionstatus": "Not Enrolled",
+                "programs": [
+                    {
+                        "id": 119,
+                        "name": "Essentials Training"
+                    }
+                ],
+                "category": null,
+                "tags": [
+                    {
+                        "id": 131,
+                        "name": "Essentials"
+                    }
+                ],
+                "customfields": [
+                    {
+                        "name": "Date last updated",
+                        "data": "1655042400"
+                    },
+                    {
+                        "name": "Contributors",
+                        "data": "[\"Pursuit Technology\"]"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "40m",
+                "timecreated": "2022-04-28T00:46:55+00:00",
+                "timemodified": "2022-04-28T00:46:55+00:00",
+                "contentid": 700
+            },
+            {
+                "fullname": "Business Analysis Masterclass",
+                "summary": "<h1>Business Analysis Master Class Syllabus</h1>\n<h2>I. Introduction to Business Analysis</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>In this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.</p>\n</li>\n<li>\n<h3>B. Business Analysis Frameworks</h3>\n<p>Participants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.</p>\n</li>\n<li>\n<h3>C. Business Analysis Process</h3>\n<p>Participants will learn about the business analysis process and how it contributes to the successful delivery of projects.</p>\n</li>\n<li>\n<h3>D. Business Analysis Techniques</h3>\n<p>Participants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.</p>\n</li>\n</ul><h2>II. Requirements Gathering and Management</h2>\n<ul><li>\n<h3>A. Stakeholder Analysis</h3>\n<p>Participants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.</p>\n</li>\n<li>\n<h3>B. Requirements Elicitation</h3>\n<p>Participants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.</p>\n</li>\n<li>\n<h3>C. Requirements Documentation</h3>\n<p>Participants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.</p>\n</li>\n<li>\n<h3>D. Requirements Management</h3>\n<p>Participants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.</p>\n</li>\n</ul><h2>III. Business Process Modeling</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>Participants will learn about the various types of business process models and how they are used to represent the flow of business processes.</p>\n</li>\n<li>\n<h3>B. Business Process Modeling Notation (BPMN)</h3>\n<p>Participants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.</p>\n</li>\n<li>\n<h3>C. Process Simulation</h3>\n<p>Participants will learn about process simulation and how it can be used to test and validate process models.</p>\n</li>\n</ul>",
+                "summarytext": "Business Analysis Master Class Syllabus\nI. Introduction to Business Analysis\n\nA. Overview\nIn this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.\n\n\nB. Business Analysis Frameworks\nParticipants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.\n\n\nC. Business Analysis Process\nParticipants will learn about the business analysis process and how it contributes to the successful delivery of projects.\n\n\nD. Business Analysis Techniques\nParticipants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.\n\nII. Requirements Gathering and Management\n\nA. Stakeholder Analysis\nParticipants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.\n\n\nB. Requirements Elicitation\nParticipants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.\n\n\nC. Requirements Documentation\nParticipants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.\n\n\nD. Requirements Management\nParticipants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.\n\nIII. Business Process Modeling\n\nA. Overview\nParticipants will learn about the various types of business process models and how they are used to represent the flow of business processes.\n\n\nB. Business Process Modeling Notation (BPMN)\nParticipants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.\n\n\nC. Process Simulation\nParticipants will learn about process simulation and how it can be used to test and validate process models.\n\n",
+                "contenttype": "Live Learning",
+                "url": "{base_url}/view_facetoface/701",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/1/facetoface_image/facetoface_image_362/0//business3184647.jpeg",
+                "badge": "",
+                "completionstatus": "Not Started",
+                "programs": [],
+                "category": null,
+                "tags": [],
+                "customfields": [
+                    {
+                        "name": "Additional Information",
+                        "data": "hello world"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "",
+                "timecreated": "2023-02-03T02:09:33+00:00",
+                "timemodified": "2023-02-03T02:09:33+00:00",
+                "contentid": 701
+            },
+            {
+                "fullname": "Building Resilience",
+                "summary": "<h2><strong>Purpose&nbsp;</strong></h2>\n<p>This module introduces new &amp; existing employees to the importance of building resilience in the workplace.<strong>&nbsp;</strong></p>\n<p>The module addresses&nbsp;the effects of&nbsp;workplace events on&nbsp;individual stress and goal-achievement, and how building resilience can benefit&nbsp;the individual&rsquo;s ability to &ldquo;bounce back&rdquo; and stay on track.&nbsp;</p>\n<p><strong>Learning outcomes&nbsp;</strong></p>\n<p>By completing this module participants will be able to:&nbsp;</p>\n<ul>\n<li>Define resilience&nbsp;and outline why it is important in the workplace&nbsp;</li>\n<li>Identify&nbsp;a range of situations within and outside&nbsp;their locus of control&nbsp;</li>\n<li>Recognise&nbsp;how individual character strengths can help build resilience&nbsp;</li>\n<li>Demonstrate&nbsp;how the skill of resilience&nbsp;can be applied to &ldquo;bounce back&rdquo;.&nbsp;</li>\n</ul>\n<p>&nbsp;<strong>Topics&nbsp;</strong></p>\n<p>Topics addressed in this module are:&nbsp;</p>\n<ul>\n<li>Definition and benefits of resilience&nbsp;</li>\n<li>Internal locus of control, self-awareness, and self-regulation&nbsp;</li>\n<li>Recognising&nbsp;and utilizing character strengths&nbsp;</li>\n<li>&ldquo;Bouncing back&rdquo; from&nbsp;unavoidable setbacks and&nbsp;retaining focus.&nbsp;</li>\n</ul>\n<p>This module should take 20 minutes to complete.</p>",
+                "summarytext": "Purpose \nThis module introduces new & existing employees to the importance of building resilience in the workplace. \nThe module addresses the effects of workplace events on individual stress and goal-achievement, and how building resilience can benefit the individual’s ability to “bounce back” and stay on track. \nLearning outcomes \nBy completing this module participants will be able to: \n\nDefine resilience and outline why it is important in the workplace \nIdentify a range of situations within and outside their locus of control \nRecognise how individual character strengths can help build resilience \nDemonstrate how the skill of resilience can be applied to “bounce back”. \n\n Topics \nTopics addressed in this module are: \n\nDefinition and benefits of resilience \nInternal locus of control, self-awareness, and self-regulation \nRecognising and utilizing character strengths \n“Bouncing back” from unavoidable setbacks and retaining focus. \n\nThis module should take 20 minutes to complete.",
+                "contenttype": "Course",
+                "url": "https://staging.acornlms.com/view_course/711",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/6863/course/overviewfiles/0/plant%20grow401213.jpeg",
+                "badge": "https://staging.acornlms.com/pluginfile.php/6863/badges/badgeimage/57/f1?refresh=6778",
+                "completionstatus": "Not Enrolled",
+                "programs": [
+                    {
+                        "id": 119,
+                        "name": "Essentials Training"
+                    }
+                ],
+                "category": null,
+                "tags": [
+                    {
+                        "id": 131,
+                        "name": "Essentials"
+                    }
+                ],
+                "customfields": [
+                    {
+                        "name": "Date last updated",
+                        "data": "1655042400"
+                    },
+                    {
+                        "name": "Contributors",
+                        "data": "[\"Pursuit Technology\"]"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "40m",
+                "timecreated": "2022-04-28T00:46:55+00:00",
+                "timemodified": "2022-04-28T00:46:55+00:00",
+                "contentid": 700
+            },
+            {
+                "fullname": "Business Analysis Masterclass",
+                "summary": "<h1>Business Analysis Master Class Syllabus</h1>\n<h2>I. Introduction to Business Analysis</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>In this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.</p>\n</li>\n<li>\n<h3>B. Business Analysis Frameworks</h3>\n<p>Participants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.</p>\n</li>\n<li>\n<h3>C. Business Analysis Process</h3>\n<p>Participants will learn about the business analysis process and how it contributes to the successful delivery of projects.</p>\n</li>\n<li>\n<h3>D. Business Analysis Techniques</h3>\n<p>Participants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.</p>\n</li>\n</ul><h2>II. Requirements Gathering and Management</h2>\n<ul><li>\n<h3>A. Stakeholder Analysis</h3>\n<p>Participants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.</p>\n</li>\n<li>\n<h3>B. Requirements Elicitation</h3>\n<p>Participants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.</p>\n</li>\n<li>\n<h3>C. Requirements Documentation</h3>\n<p>Participants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.</p>\n</li>\n<li>\n<h3>D. Requirements Management</h3>\n<p>Participants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.</p>\n</li>\n</ul><h2>III. Business Process Modeling</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>Participants will learn about the various types of business process models and how they are used to represent the flow of business processes.</p>\n</li>\n<li>\n<h3>B. Business Process Modeling Notation (BPMN)</h3>\n<p>Participants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.</p>\n</li>\n<li>\n<h3>C. Process Simulation</h3>\n<p>Participants will learn about process simulation and how it can be used to test and validate process models.</p>\n</li>\n</ul>",
+                "summarytext": "Business Analysis Master Class Syllabus\nI. Introduction to Business Analysis\n\nA. Overview\nIn this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.\n\n\nB. Business Analysis Frameworks\nParticipants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.\n\n\nC. Business Analysis Process\nParticipants will learn about the business analysis process and how it contributes to the successful delivery of projects.\n\n\nD. Business Analysis Techniques\nParticipants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.\n\nII. Requirements Gathering and Management\n\nA. Stakeholder Analysis\nParticipants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.\n\n\nB. Requirements Elicitation\nParticipants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.\n\n\nC. Requirements Documentation\nParticipants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.\n\n\nD. Requirements Management\nParticipants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.\n\nIII. Business Process Modeling\n\nA. Overview\nParticipants will learn about the various types of business process models and how they are used to represent the flow of business processes.\n\n\nB. Business Process Modeling Notation (BPMN)\nParticipants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.\n\n\nC. Process Simulation\nParticipants will learn about process simulation and how it can be used to test and validate process models.\n\n",
+                "contenttype": "Live Learning",
+                "url": "{base_url}/view_facetoface/701",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/1/facetoface_image/facetoface_image_362/0//business3184647.jpeg",
+                "badge": "",
+                "completionstatus": "Not Started",
+                "programs": [],
+                "category": null,
+                "tags": [],
+                "customfields": [
+                    {
+                        "name": "Additional Information",
+                        "data": "hello world"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "",
+                "timecreated": "2023-02-03T02:09:33+00:00",
+                "timemodified": "2023-02-03T02:09:33+00:00",
+                "contentid": 701
+            },
+            {
+                "fullname": "Building Resilience",
+                "summary": "<h2><strong>Purpose&nbsp;</strong></h2>\n<p>This module introduces new &amp; existing employees to the importance of building resilience in the workplace.<strong>&nbsp;</strong></p>\n<p>The module addresses&nbsp;the effects of&nbsp;workplace events on&nbsp;individual stress and goal-achievement, and how building resilience can benefit&nbsp;the individual&rsquo;s ability to &ldquo;bounce back&rdquo; and stay on track.&nbsp;</p>\n<p><strong>Learning outcomes&nbsp;</strong></p>\n<p>By completing this module participants will be able to:&nbsp;</p>\n<ul>\n<li>Define resilience&nbsp;and outline why it is important in the workplace&nbsp;</li>\n<li>Identify&nbsp;a range of situations within and outside&nbsp;their locus of control&nbsp;</li>\n<li>Recognise&nbsp;how individual character strengths can help build resilience&nbsp;</li>\n<li>Demonstrate&nbsp;how the skill of resilience&nbsp;can be applied to &ldquo;bounce back&rdquo;.&nbsp;</li>\n</ul>\n<p>&nbsp;<strong>Topics&nbsp;</strong></p>\n<p>Topics addressed in this module are:&nbsp;</p>\n<ul>\n<li>Definition and benefits of resilience&nbsp;</li>\n<li>Internal locus of control, self-awareness, and self-regulation&nbsp;</li>\n<li>Recognising&nbsp;and utilizing character strengths&nbsp;</li>\n<li>&ldquo;Bouncing back&rdquo; from&nbsp;unavoidable setbacks and&nbsp;retaining focus.&nbsp;</li>\n</ul>\n<p>This module should take 20 minutes to complete.</p>",
+                "summarytext": "Purpose \nThis module introduces new & existing employees to the importance of building resilience in the workplace. \nThe module addresses the effects of workplace events on individual stress and goal-achievement, and how building resilience can benefit the individual’s ability to “bounce back” and stay on track. \nLearning outcomes \nBy completing this module participants will be able to: \n\nDefine resilience and outline why it is important in the workplace \nIdentify a range of situations within and outside their locus of control \nRecognise how individual character strengths can help build resilience \nDemonstrate how the skill of resilience can be applied to “bounce back”. \n\n Topics \nTopics addressed in this module are: \n\nDefinition and benefits of resilience \nInternal locus of control, self-awareness, and self-regulation \nRecognising and utilizing character strengths \n“Bouncing back” from unavoidable setbacks and retaining focus. \n\nThis module should take 20 minutes to complete.",
+                "contenttype": "Course",
+                "url": "https://staging.acornlms.com/view_course/711",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/6863/course/overviewfiles/0/plant%20grow401213.jpeg",
+                "badge": "https://staging.acornlms.com/pluginfile.php/6863/badges/badgeimage/57/f1?refresh=6778",
+                "completionstatus": "Not Enrolled",
+                "programs": [
+                    {
+                        "id": 119,
+                        "name": "Essentials Training"
+                    }
+                ],
+                "category": null,
+                "tags": [
+                    {
+                        "id": 131,
+                        "name": "Essentials"
+                    }
+                ],
+                "customfields": [
+                    {
+                        "name": "Date last updated",
+                        "data": "1655042400"
+                    },
+                    {
+                        "name": "Contributors",
+                        "data": "[\"Pursuit Technology\"]"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "40m",
+                "timecreated": "2022-04-28T00:46:55+00:00",
+                "timemodified": "2022-04-28T00:46:55+00:00",
+                "contentid": 700
+            },
+            {
+                "fullname": "Business Analysis Masterclass",
+                "summary": "<h1>Business Analysis Master Class Syllabus</h1>\n<h2>I. Introduction to Business Analysis</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>In this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.</p>\n</li>\n<li>\n<h3>B. Business Analysis Frameworks</h3>\n<p>Participants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.</p>\n</li>\n<li>\n<h3>C. Business Analysis Process</h3>\n<p>Participants will learn about the business analysis process and how it contributes to the successful delivery of projects.</p>\n</li>\n<li>\n<h3>D. Business Analysis Techniques</h3>\n<p>Participants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.</p>\n</li>\n</ul><h2>II. Requirements Gathering and Management</h2>\n<ul><li>\n<h3>A. Stakeholder Analysis</h3>\n<p>Participants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.</p>\n</li>\n<li>\n<h3>B. Requirements Elicitation</h3>\n<p>Participants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.</p>\n</li>\n<li>\n<h3>C. Requirements Documentation</h3>\n<p>Participants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.</p>\n</li>\n<li>\n<h3>D. Requirements Management</h3>\n<p>Participants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.</p>\n</li>\n</ul><h2>III. Business Process Modeling</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>Participants will learn about the various types of business process models and how they are used to represent the flow of business processes.</p>\n</li>\n<li>\n<h3>B. Business Process Modeling Notation (BPMN)</h3>\n<p>Participants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.</p>\n</li>\n<li>\n<h3>C. Process Simulation</h3>\n<p>Participants will learn about process simulation and how it can be used to test and validate process models.</p>\n</li>\n</ul>",
+                "summarytext": "Business Analysis Master Class Syllabus\nI. Introduction to Business Analysis\n\nA. Overview\nIn this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.\n\n\nB. Business Analysis Frameworks\nParticipants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.\n\n\nC. Business Analysis Process\nParticipants will learn about the business analysis process and how it contributes to the successful delivery of projects.\n\n\nD. Business Analysis Techniques\nParticipants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.\n\nII. Requirements Gathering and Management\n\nA. Stakeholder Analysis\nParticipants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.\n\n\nB. Requirements Elicitation\nParticipants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.\n\n\nC. Requirements Documentation\nParticipants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.\n\n\nD. Requirements Management\nParticipants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.\n\nIII. Business Process Modeling\n\nA. Overview\nParticipants will learn about the various types of business process models and how they are used to represent the flow of business processes.\n\n\nB. Business Process Modeling Notation (BPMN)\nParticipants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.\n\n\nC. Process Simulation\nParticipants will learn about process simulation and how it can be used to test and validate process models.\n\n",
+                "contenttype": "Live Learning",
+                "url": "{base_url}/view_facetoface/701",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/1/facetoface_image/facetoface_image_362/0//business3184647.jpeg",
+                "badge": "",
+                "completionstatus": "Not Started",
+                "programs": [],
+                "category": null,
+                "tags": [],
+                "customfields": [
+                    {
+                        "name": "Additional Information",
+                        "data": "hello world"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "",
+                "timecreated": "2023-02-03T02:09:33+00:00",
+                "timemodified": "2023-02-03T02:09:33+00:00",
+                "contentid": 701
+            },
+            {
+                "fullname": "Building Resilience",
+                "summary": "<h2><strong>Purpose&nbsp;</strong></h2>\n<p>This module introduces new &amp; existing employees to the importance of building resilience in the workplace.<strong>&nbsp;</strong></p>\n<p>The module addresses&nbsp;the effects of&nbsp;workplace events on&nbsp;individual stress and goal-achievement, and how building resilience can benefit&nbsp;the individual&rsquo;s ability to &ldquo;bounce back&rdquo; and stay on track.&nbsp;</p>\n<p><strong>Learning outcomes&nbsp;</strong></p>\n<p>By completing this module participants will be able to:&nbsp;</p>\n<ul>\n<li>Define resilience&nbsp;and outline why it is important in the workplace&nbsp;</li>\n<li>Identify&nbsp;a range of situations within and outside&nbsp;their locus of control&nbsp;</li>\n<li>Recognise&nbsp;how individual character strengths can help build resilience&nbsp;</li>\n<li>Demonstrate&nbsp;how the skill of resilience&nbsp;can be applied to &ldquo;bounce back&rdquo;.&nbsp;</li>\n</ul>\n<p>&nbsp;<strong>Topics&nbsp;</strong></p>\n<p>Topics addressed in this module are:&nbsp;</p>\n<ul>\n<li>Definition and benefits of resilience&nbsp;</li>\n<li>Internal locus of control, self-awareness, and self-regulation&nbsp;</li>\n<li>Recognising&nbsp;and utilizing character strengths&nbsp;</li>\n<li>&ldquo;Bouncing back&rdquo; from&nbsp;unavoidable setbacks and&nbsp;retaining focus.&nbsp;</li>\n</ul>\n<p>This module should take 20 minutes to complete.</p>",
+                "summarytext": "Purpose \nThis module introduces new & existing employees to the importance of building resilience in the workplace. \nThe module addresses the effects of workplace events on individual stress and goal-achievement, and how building resilience can benefit the individual’s ability to “bounce back” and stay on track. \nLearning outcomes \nBy completing this module participants will be able to: \n\nDefine resilience and outline why it is important in the workplace \nIdentify a range of situations within and outside their locus of control \nRecognise how individual character strengths can help build resilience \nDemonstrate how the skill of resilience can be applied to “bounce back”. \n\n Topics \nTopics addressed in this module are: \n\nDefinition and benefits of resilience \nInternal locus of control, self-awareness, and self-regulation \nRecognising and utilizing character strengths \n“Bouncing back” from unavoidable setbacks and retaining focus. \n\nThis module should take 20 minutes to complete.",
+                "contenttype": "Course",
+                "url": "https://staging.acornlms.com/view_course/711",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/6863/course/overviewfiles/0/plant%20grow401213.jpeg",
+                "badge": "https://staging.acornlms.com/pluginfile.php/6863/badges/badgeimage/57/f1?refresh=6778",
+                "completionstatus": "Not Enrolled",
+                "programs": [
+                    {
+                        "id": 119,
+                        "name": "Essentials Training"
+                    }
+                ],
+                "category": null,
+                "tags": [
+                    {
+                        "id": 131,
+                        "name": "Essentials"
+                    }
+                ],
+                "customfields": [
+                    {
+                        "name": "Date last updated",
+                        "data": "1655042400"
+                    },
+                    {
+                        "name": "Contributors",
+                        "data": "[\"Pursuit Technology\"]"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "40m",
+                "timecreated": "2022-04-28T00:46:55+00:00",
+                "timemodified": "2022-04-28T00:46:55+00:00",
+                "contentid": 700
+            },
+            {
+                "fullname": "Business Analysis Masterclass",
+                "summary": "<h1>Business Analysis Master Class Syllabus</h1>\n<h2>I. Introduction to Business Analysis</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>In this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.</p>\n</li>\n<li>\n<h3>B. Business Analysis Frameworks</h3>\n<p>Participants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.</p>\n</li>\n<li>\n<h3>C. Business Analysis Process</h3>\n<p>Participants will learn about the business analysis process and how it contributes to the successful delivery of projects.</p>\n</li>\n<li>\n<h3>D. Business Analysis Techniques</h3>\n<p>Participants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.</p>\n</li>\n</ul><h2>II. Requirements Gathering and Management</h2>\n<ul><li>\n<h3>A. Stakeholder Analysis</h3>\n<p>Participants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.</p>\n</li>\n<li>\n<h3>B. Requirements Elicitation</h3>\n<p>Participants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.</p>\n</li>\n<li>\n<h3>C. Requirements Documentation</h3>\n<p>Participants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.</p>\n</li>\n<li>\n<h3>D. Requirements Management</h3>\n<p>Participants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.</p>\n</li>\n</ul><h2>III. Business Process Modeling</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>Participants will learn about the various types of business process models and how they are used to represent the flow of business processes.</p>\n</li>\n<li>\n<h3>B. Business Process Modeling Notation (BPMN)</h3>\n<p>Participants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.</p>\n</li>\n<li>\n<h3>C. Process Simulation</h3>\n<p>Participants will learn about process simulation and how it can be used to test and validate process models.</p>\n</li>\n</ul>",
+                "summarytext": "Business Analysis Master Class Syllabus\nI. Introduction to Business Analysis\n\nA. Overview\nIn this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.\n\n\nB. Business Analysis Frameworks\nParticipants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.\n\n\nC. Business Analysis Process\nParticipants will learn about the business analysis process and how it contributes to the successful delivery of projects.\n\n\nD. Business Analysis Techniques\nParticipants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.\n\nII. Requirements Gathering and Management\n\nA. Stakeholder Analysis\nParticipants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.\n\n\nB. Requirements Elicitation\nParticipants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.\n\n\nC. Requirements Documentation\nParticipants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.\n\n\nD. Requirements Management\nParticipants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.\n\nIII. Business Process Modeling\n\nA. Overview\nParticipants will learn about the various types of business process models and how they are used to represent the flow of business processes.\n\n\nB. Business Process Modeling Notation (BPMN)\nParticipants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.\n\n\nC. Process Simulation\nParticipants will learn about process simulation and how it can be used to test and validate process models.\n\n",
+                "contenttype": "Live Learning",
+                "url": "{base_url}/view_facetoface/701",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/1/facetoface_image/facetoface_image_362/0//business3184647.jpeg",
+                "badge": "",
+                "completionstatus": "Not Started",
+                "programs": [],
+                "category": null,
+                "tags": [],
+                "customfields": [
+                    {
+                        "name": "Additional Information",
+                        "data": "hello world"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "",
+                "timecreated": "2023-02-03T02:09:33+00:00",
+                "timemodified": "2023-02-03T02:09:33+00:00",
+                "contentid": 701
+            },
+            {
+                "fullname": "Building Resilience",
+                "summary": "<h2><strong>Purpose&nbsp;</strong></h2>\n<p>This module introduces new &amp; existing employees to the importance of building resilience in the workplace.<strong>&nbsp;</strong></p>\n<p>The module addresses&nbsp;the effects of&nbsp;workplace events on&nbsp;individual stress and goal-achievement, and how building resilience can benefit&nbsp;the individual&rsquo;s ability to &ldquo;bounce back&rdquo; and stay on track.&nbsp;</p>\n<p><strong>Learning outcomes&nbsp;</strong></p>\n<p>By completing this module participants will be able to:&nbsp;</p>\n<ul>\n<li>Define resilience&nbsp;and outline why it is important in the workplace&nbsp;</li>\n<li>Identify&nbsp;a range of situations within and outside&nbsp;their locus of control&nbsp;</li>\n<li>Recognise&nbsp;how individual character strengths can help build resilience&nbsp;</li>\n<li>Demonstrate&nbsp;how the skill of resilience&nbsp;can be applied to &ldquo;bounce back&rdquo;.&nbsp;</li>\n</ul>\n<p>&nbsp;<strong>Topics&nbsp;</strong></p>\n<p>Topics addressed in this module are:&nbsp;</p>\n<ul>\n<li>Definition and benefits of resilience&nbsp;</li>\n<li>Internal locus of control, self-awareness, and self-regulation&nbsp;</li>\n<li>Recognising&nbsp;and utilizing character strengths&nbsp;</li>\n<li>&ldquo;Bouncing back&rdquo; from&nbsp;unavoidable setbacks and&nbsp;retaining focus.&nbsp;</li>\n</ul>\n<p>This module should take 20 minutes to complete.</p>",
+                "summarytext": "Purpose \nThis module introduces new & existing employees to the importance of building resilience in the workplace. \nThe module addresses the effects of workplace events on individual stress and goal-achievement, and how building resilience can benefit the individual’s ability to “bounce back” and stay on track. \nLearning outcomes \nBy completing this module participants will be able to: \n\nDefine resilience and outline why it is important in the workplace \nIdentify a range of situations within and outside their locus of control \nRecognise how individual character strengths can help build resilience \nDemonstrate how the skill of resilience can be applied to “bounce back”. \n\n Topics \nTopics addressed in this module are: \n\nDefinition and benefits of resilience \nInternal locus of control, self-awareness, and self-regulation \nRecognising and utilizing character strengths \n“Bouncing back” from unavoidable setbacks and retaining focus. \n\nThis module should take 20 minutes to complete.",
+                "contenttype": "Course",
+                "url": "https://staging.acornlms.com/view_course/711",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/6863/course/overviewfiles/0/plant%20grow401213.jpeg",
+                "badge": "https://staging.acornlms.com/pluginfile.php/6863/badges/badgeimage/57/f1?refresh=6778",
+                "completionstatus": "Not Enrolled",
+                "programs": [
+                    {
+                        "id": 119,
+                        "name": "Essentials Training"
+                    }
+                ],
+                "category": null,
+                "tags": [
+                    {
+                        "id": 131,
+                        "name": "Essentials"
+                    }
+                ],
+                "customfields": [
+                    {
+                        "name": "Date last updated",
+                        "data": "1655042400"
+                    },
+                    {
+                        "name": "Contributors",
+                        "data": "[\"Pursuit Technology\"]"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "40m",
+                "timecreated": "2022-04-28T00:46:55+00:00",
+                "timemodified": "2022-04-28T00:46:55+00:00",
+                "contentid": 700
+            },
+            {
+                "fullname": "Business Analysis Masterclass",
+                "summary": "<h1>Business Analysis Master Class Syllabus</h1>\n<h2>I. Introduction to Business Analysis</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>In this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.</p>\n</li>\n<li>\n<h3>B. Business Analysis Frameworks</h3>\n<p>Participants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.</p>\n</li>\n<li>\n<h3>C. Business Analysis Process</h3>\n<p>Participants will learn about the business analysis process and how it contributes to the successful delivery of projects.</p>\n</li>\n<li>\n<h3>D. Business Analysis Techniques</h3>\n<p>Participants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.</p>\n</li>\n</ul><h2>II. Requirements Gathering and Management</h2>\n<ul><li>\n<h3>A. Stakeholder Analysis</h3>\n<p>Participants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.</p>\n</li>\n<li>\n<h3>B. Requirements Elicitation</h3>\n<p>Participants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.</p>\n</li>\n<li>\n<h3>C. Requirements Documentation</h3>\n<p>Participants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.</p>\n</li>\n<li>\n<h3>D. Requirements Management</h3>\n<p>Participants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.</p>\n</li>\n</ul><h2>III. Business Process Modeling</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>Participants will learn about the various types of business process models and how they are used to represent the flow of business processes.</p>\n</li>\n<li>\n<h3>B. Business Process Modeling Notation (BPMN)</h3>\n<p>Participants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.</p>\n</li>\n<li>\n<h3>C. Process Simulation</h3>\n<p>Participants will learn about process simulation and how it can be used to test and validate process models.</p>\n</li>\n</ul>",
+                "summarytext": "Business Analysis Master Class Syllabus\nI. Introduction to Business Analysis\n\nA. Overview\nIn this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.\n\n\nB. Business Analysis Frameworks\nParticipants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.\n\n\nC. Business Analysis Process\nParticipants will learn about the business analysis process and how it contributes to the successful delivery of projects.\n\n\nD. Business Analysis Techniques\nParticipants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.\n\nII. Requirements Gathering and Management\n\nA. Stakeholder Analysis\nParticipants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.\n\n\nB. Requirements Elicitation\nParticipants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.\n\n\nC. Requirements Documentation\nParticipants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.\n\n\nD. Requirements Management\nParticipants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.\n\nIII. Business Process Modeling\n\nA. Overview\nParticipants will learn about the various types of business process models and how they are used to represent the flow of business processes.\n\n\nB. Business Process Modeling Notation (BPMN)\nParticipants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.\n\n\nC. Process Simulation\nParticipants will learn about process simulation and how it can be used to test and validate process models.\n\n",
+                "contenttype": "Live Learning",
+                "url": "{base_url}/view_facetoface/701",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/1/facetoface_image/facetoface_image_362/0//business3184647.jpeg",
+                "badge": "",
+                "completionstatus": "Not Started",
+                "programs": [],
+                "category": null,
+                "tags": [],
+                "customfields": [
+                    {
+                        "name": "Additional Information",
+                        "data": "hello world"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "",
+                "timecreated": "2023-02-03T02:09:33+00:00",
+                "timemodified": "2023-02-03T02:09:33+00:00",
+                "contentid": 701
+            },
+            {
+                "fullname": "Building Resilience",
+                "summary": "<h2><strong>Purpose&nbsp;</strong></h2>\n<p>This module introduces new &amp; existing employees to the importance of building resilience in the workplace.<strong>&nbsp;</strong></p>\n<p>The module addresses&nbsp;the effects of&nbsp;workplace events on&nbsp;individual stress and goal-achievement, and how building resilience can benefit&nbsp;the individual&rsquo;s ability to &ldquo;bounce back&rdquo; and stay on track.&nbsp;</p>\n<p><strong>Learning outcomes&nbsp;</strong></p>\n<p>By completing this module participants will be able to:&nbsp;</p>\n<ul>\n<li>Define resilience&nbsp;and outline why it is important in the workplace&nbsp;</li>\n<li>Identify&nbsp;a range of situations within and outside&nbsp;their locus of control&nbsp;</li>\n<li>Recognise&nbsp;how individual character strengths can help build resilience&nbsp;</li>\n<li>Demonstrate&nbsp;how the skill of resilience&nbsp;can be applied to &ldquo;bounce back&rdquo;.&nbsp;</li>\n</ul>\n<p>&nbsp;<strong>Topics&nbsp;</strong></p>\n<p>Topics addressed in this module are:&nbsp;</p>\n<ul>\n<li>Definition and benefits of resilience&nbsp;</li>\n<li>Internal locus of control, self-awareness, and self-regulation&nbsp;</li>\n<li>Recognising&nbsp;and utilizing character strengths&nbsp;</li>\n<li>&ldquo;Bouncing back&rdquo; from&nbsp;unavoidable setbacks and&nbsp;retaining focus.&nbsp;</li>\n</ul>\n<p>This module should take 20 minutes to complete.</p>",
+                "summarytext": "Purpose \nThis module introduces new & existing employees to the importance of building resilience in the workplace. \nThe module addresses the effects of workplace events on individual stress and goal-achievement, and how building resilience can benefit the individual’s ability to “bounce back” and stay on track. \nLearning outcomes \nBy completing this module participants will be able to: \n\nDefine resilience and outline why it is important in the workplace \nIdentify a range of situations within and outside their locus of control \nRecognise how individual character strengths can help build resilience \nDemonstrate how the skill of resilience can be applied to “bounce back”. \n\n Topics \nTopics addressed in this module are: \n\nDefinition and benefits of resilience \nInternal locus of control, self-awareness, and self-regulation \nRecognising and utilizing character strengths \n“Bouncing back” from unavoidable setbacks and retaining focus. \n\nThis module should take 20 minutes to complete.",
+                "contenttype": "Course",
+                "url": "https://staging.acornlms.com/view_course/711",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/6863/course/overviewfiles/0/plant%20grow401213.jpeg",
+                "badge": "https://staging.acornlms.com/pluginfile.php/6863/badges/badgeimage/57/f1?refresh=6778",
+                "completionstatus": "Not Enrolled",
+                "programs": [
+                    {
+                        "id": 119,
+                        "name": "Essentials Training"
+                    }
+                ],
+                "category": null,
+                "tags": [
+                    {
+                        "id": 131,
+                        "name": "Essentials"
+                    }
+                ],
+                "customfields": [
+                    {
+                        "name": "Date last updated",
+                        "data": "1655042400"
+                    },
+                    {
+                        "name": "Contributors",
+                        "data": "[\"Pursuit Technology\"]"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "40m",
+                "timecreated": "2022-04-28T00:46:55+00:00",
+                "timemodified": "2022-04-28T00:46:55+00:00",
+                "contentid": 700
+            },
+            {
+                "fullname": "Business Analysis Masterclass",
+                "summary": "<h1>Business Analysis Master Class Syllabus</h1>\n<h2>I. Introduction to Business Analysis</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>In this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.</p>\n</li>\n<li>\n<h3>B. Business Analysis Frameworks</h3>\n<p>Participants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.</p>\n</li>\n<li>\n<h3>C. Business Analysis Process</h3>\n<p>Participants will learn about the business analysis process and how it contributes to the successful delivery of projects.</p>\n</li>\n<li>\n<h3>D. Business Analysis Techniques</h3>\n<p>Participants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.</p>\n</li>\n</ul><h2>II. Requirements Gathering and Management</h2>\n<ul><li>\n<h3>A. Stakeholder Analysis</h3>\n<p>Participants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.</p>\n</li>\n<li>\n<h3>B. Requirements Elicitation</h3>\n<p>Participants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.</p>\n</li>\n<li>\n<h3>C. Requirements Documentation</h3>\n<p>Participants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.</p>\n</li>\n<li>\n<h3>D. Requirements Management</h3>\n<p>Participants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.</p>\n</li>\n</ul><h2>III. Business Process Modeling</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>Participants will learn about the various types of business process models and how they are used to represent the flow of business processes.</p>\n</li>\n<li>\n<h3>B. Business Process Modeling Notation (BPMN)</h3>\n<p>Participants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.</p>\n</li>\n<li>\n<h3>C. Process Simulation</h3>\n<p>Participants will learn about process simulation and how it can be used to test and validate process models.</p>\n</li>\n</ul>",
+                "summarytext": "Business Analysis Master Class Syllabus\nI. Introduction to Business Analysis\n\nA. Overview\nIn this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.\n\n\nB. Business Analysis Frameworks\nParticipants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.\n\n\nC. Business Analysis Process\nParticipants will learn about the business analysis process and how it contributes to the successful delivery of projects.\n\n\nD. Business Analysis Techniques\nParticipants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.\n\nII. Requirements Gathering and Management\n\nA. Stakeholder Analysis\nParticipants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.\n\n\nB. Requirements Elicitation\nParticipants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.\n\n\nC. Requirements Documentation\nParticipants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.\n\n\nD. Requirements Management\nParticipants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.\n\nIII. Business Process Modeling\n\nA. Overview\nParticipants will learn about the various types of business process models and how they are used to represent the flow of business processes.\n\n\nB. Business Process Modeling Notation (BPMN)\nParticipants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.\n\n\nC. Process Simulation\nParticipants will learn about process simulation and how it can be used to test and validate process models.\n\n",
+                "contenttype": "Live Learning",
+                "url": "{base_url}/view_facetoface/701",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/1/facetoface_image/facetoface_image_362/0//business3184647.jpeg",
+                "badge": "",
+                "completionstatus": "Not Started",
+                "programs": [],
+                "category": null,
+                "tags": [],
+                "customfields": [
+                    {
+                        "name": "Additional Information",
+                        "data": "hello world"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "",
+                "timecreated": "2023-02-03T02:09:33+00:00",
+                "timemodified": "2023-02-03T02:09:33+00:00",
+                "contentid": 701
+            },
+            {
+                "fullname": "Building Resilience",
+                "summary": "<h2><strong>Purpose&nbsp;</strong></h2>\n<p>This module introduces new &amp; existing employees to the importance of building resilience in the workplace.<strong>&nbsp;</strong></p>\n<p>The module addresses&nbsp;the effects of&nbsp;workplace events on&nbsp;individual stress and goal-achievement, and how building resilience can benefit&nbsp;the individual&rsquo;s ability to &ldquo;bounce back&rdquo; and stay on track.&nbsp;</p>\n<p><strong>Learning outcomes&nbsp;</strong></p>\n<p>By completing this module participants will be able to:&nbsp;</p>\n<ul>\n<li>Define resilience&nbsp;and outline why it is important in the workplace&nbsp;</li>\n<li>Identify&nbsp;a range of situations within and outside&nbsp;their locus of control&nbsp;</li>\n<li>Recognise&nbsp;how individual character strengths can help build resilience&nbsp;</li>\n<li>Demonstrate&nbsp;how the skill of resilience&nbsp;can be applied to &ldquo;bounce back&rdquo;.&nbsp;</li>\n</ul>\n<p>&nbsp;<strong>Topics&nbsp;</strong></p>\n<p>Topics addressed in this module are:&nbsp;</p>\n<ul>\n<li>Definition and benefits of resilience&nbsp;</li>\n<li>Internal locus of control, self-awareness, and self-regulation&nbsp;</li>\n<li>Recognising&nbsp;and utilizing character strengths&nbsp;</li>\n<li>&ldquo;Bouncing back&rdquo; from&nbsp;unavoidable setbacks and&nbsp;retaining focus.&nbsp;</li>\n</ul>\n<p>This module should take 20 minutes to complete.</p>",
+                "summarytext": "Purpose \nThis module introduces new & existing employees to the importance of building resilience in the workplace. \nThe module addresses the effects of workplace events on individual stress and goal-achievement, and how building resilience can benefit the individual’s ability to “bounce back” and stay on track. \nLearning outcomes \nBy completing this module participants will be able to: \n\nDefine resilience and outline why it is important in the workplace \nIdentify a range of situations within and outside their locus of control \nRecognise how individual character strengths can help build resilience \nDemonstrate how the skill of resilience can be applied to “bounce back”. \n\n Topics \nTopics addressed in this module are: \n\nDefinition and benefits of resilience \nInternal locus of control, self-awareness, and self-regulation \nRecognising and utilizing character strengths \n“Bouncing back” from unavoidable setbacks and retaining focus. \n\nThis module should take 20 minutes to complete.",
+                "contenttype": "Course",
+                "url": "https://staging.acornlms.com/view_course/711",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/6863/course/overviewfiles/0/plant%20grow401213.jpeg",
+                "badge": "https://staging.acornlms.com/pluginfile.php/6863/badges/badgeimage/57/f1?refresh=6778",
+                "completionstatus": "Not Enrolled",
+                "programs": [
+                    {
+                        "id": 119,
+                        "name": "Essentials Training"
+                    }
+                ],
+                "category": null,
+                "tags": [
+                    {
+                        "id": 131,
+                        "name": "Essentials"
+                    }
+                ],
+                "customfields": [
+                    {
+                        "name": "Date last updated",
+                        "data": "1655042400"
+                    },
+                    {
+                        "name": "Contributors",
+                        "data": "[\"Pursuit Technology\"]"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "40m",
+                "timecreated": "2022-04-28T00:46:55+00:00",
+                "timemodified": "2022-04-28T00:46:55+00:00",
+                "contentid": 700
+            },
+            {
+                "fullname": "Business Analysis Masterclass",
+                "summary": "<h1>Business Analysis Master Class Syllabus</h1>\n<h2>I. Introduction to Business Analysis</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>In this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.</p>\n</li>\n<li>\n<h3>B. Business Analysis Frameworks</h3>\n<p>Participants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.</p>\n</li>\n<li>\n<h3>C. Business Analysis Process</h3>\n<p>Participants will learn about the business analysis process and how it contributes to the successful delivery of projects.</p>\n</li>\n<li>\n<h3>D. Business Analysis Techniques</h3>\n<p>Participants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.</p>\n</li>\n</ul><h2>II. Requirements Gathering and Management</h2>\n<ul><li>\n<h3>A. Stakeholder Analysis</h3>\n<p>Participants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.</p>\n</li>\n<li>\n<h3>B. Requirements Elicitation</h3>\n<p>Participants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.</p>\n</li>\n<li>\n<h3>C. Requirements Documentation</h3>\n<p>Participants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.</p>\n</li>\n<li>\n<h3>D. Requirements Management</h3>\n<p>Participants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.</p>\n</li>\n</ul><h2>III. Business Process Modeling</h2>\n<ul><li>\n<h3>A. Overview</h3>\n<p>Participants will learn about the various types of business process models and how they are used to represent the flow of business processes.</p>\n</li>\n<li>\n<h3>B. Business Process Modeling Notation (BPMN)</h3>\n<p>Participants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.</p>\n</li>\n<li>\n<h3>C. Process Simulation</h3>\n<p>Participants will learn about process simulation and how it can be used to test and validate process models.</p>\n</li>\n</ul>",
+                "summarytext": "Business Analysis Master Class Syllabus\nI. Introduction to Business Analysis\n\nA. Overview\nIn this section, participants will be introduced to the role of business analysis and its significance in driving organizational success.\n\n\nB. Business Analysis Frameworks\nParticipants will learn about the various frameworks and methodologies used in business analysis, including the Business Analysis Body of Knowledge (BABOK) and the Agile Extension to the BABOK.\n\n\nC. Business Analysis Process\nParticipants will learn about the business analysis process and how it contributes to the successful delivery of projects.\n\n\nD. Business Analysis Techniques\nParticipants will learn about the various techniques used in business analysis, including requirements gathering, modeling, and prototyping.\n\nII. Requirements Gathering and Management\n\nA. Stakeholder Analysis\nParticipants will learn about stakeholder analysis and how to identify, prioritize, and engage stakeholders in the requirements gathering process.\n\n\nB. Requirements Elicitation\nParticipants will learn about the various techniques used for requirements elicitation, including interviews, workshops, and surveys.\n\n\nC. Requirements Documentation\nParticipants will learn about the importance of documenting requirements and how to create clear and concise requirement specifications.\n\n\nD. Requirements Management\nParticipants will learn about requirements management, including how to maintain and update requirements throughout the project life cycle.\n\nIII. Business Process Modeling\n\nA. Overview\nParticipants will learn about the various types of business process models and how they are used to represent the flow of business processes.\n\n\nB. Business Process Modeling Notation (BPMN)\nParticipants will learn about BPMN, a widely used modeling language, and how to create process models using BPMN.\n\n\nC. Process Simulation\nParticipants will learn about process simulation and how it can be used to test and validate process models.\n\n",
+                "contenttype": "Live Learning",
+                "url": "{base_url}/view_facetoface/701",
+                "imageurl": "https://staging.acornlms.com/local/acorn_shared/resources/assets/customfile.php/1/facetoface_image/facetoface_image_362/0//business3184647.jpeg",
+                "badge": "",
+                "completionstatus": "Not Started",
+                "programs": [],
+                "category": null,
+                "tags": [],
+                "customfields": [
+                    {
+                        "name": "Additional Information",
+                        "data": "hello world"
+                    },
+                    {
+                        "name": "Recommended Levels",
+                        "data": "[\"Level 2\",\"Level 3\",\"Level 4\"]"
+                    }
+                ],
+                "cost": 0,
+                "duration": "",
+                "timecreated": "2023-02-03T02:09:33+00:00",
+                "timemodified": "2023-02-03T02:09:33+00:00",
+                "contentid": 701
+            }
+        ],
+        "next_page_url": "https://staging.acornlms.com/local/acorn_coursemanagement/index.php/api/1/external_catalogue/{{tenancy_id}}?username=carmina.ables%40example.com&perPage=16&page=2",
+        "previous_page_url": null,
+        "per_page": "16"
+    }
+}
