@@ -20,6 +20,7 @@ const StatusChip = ({ label, color }) => (
 );
 
 export default function CatalogueCard({ data }) {
+    const { image, title, status, type: contentType, duration } = data;
     return (
         <Grid size={{ xs: 12, md: 4, sm: 6 }}>
             <Card>
@@ -27,20 +28,24 @@ export default function CatalogueCard({ data }) {
                     <CardMedia
                         component="img"
                         height="140"
-                        image={data.image}
-                        alt={data.title}
+                        image={image}
+                        alt={title}
                     />
-                    <StatusChip color="primary" label={data.status} />
+                    <StatusChip color={status.color} label={status.label} />
                 </Box>
                 <CardContent>
                     <Typography variant="h6" noWrap>
-                        {data.title}
+                        {title}
                     </Typography>
                 </CardContent>
                 <CardActions>
-                    {data.type === "Course" ? <LocalLibrary /> : <LiveTv />}
-                    {data.type === "Course" && (
-                        <Typography variant="body2">{data.duration}</Typography>
+                    {contentType === "Course" ? (
+                        <>
+                            <LocalLibrary color={status.color}/>
+                            <Typography variant="body2">{duration}</Typography>
+                        </>
+                    ) : (
+                        <LiveTv color={status.color}/>
                     )}
                 </CardActions>
             </Card>

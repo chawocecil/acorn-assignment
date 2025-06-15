@@ -12,7 +12,7 @@ class LiveLearning extends Content
             'summary' => $this->summary,
             'image' => $this->image,
             'type' => $this->type,
-            'status' => $this->completionStatus,
+            'status' => $this->status,
         ];
     }
 }

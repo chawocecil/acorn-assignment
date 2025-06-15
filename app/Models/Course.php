@@ -20,7 +20,7 @@ class Course extends Content
             'summary' => $this->summary,
             'image' => $this->image,
             'type' => $this->type,
-            'status' => $this->completionStatus,
+            'status' => $this->status,
             'duration' => $this->duration,
         ];
     }
