@@ -37,8 +37,11 @@ export default function CatalogueCard({ data }) {
                         {data.title}
                     </Typography>
                 </CardContent>
-                <CardActions disableSpacing>
+                <CardActions>
                     {data.type === "Course" ? <LocalLibrary /> : <LiveTv />}
+                    {data.type === "Course" && (
+                        <Typography variant="body2">{data.duration}</Typography>
+                    )}
                 </CardActions>
             </Card>
         </Grid>

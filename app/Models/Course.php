@@ -4,6 +4,14 @@ namespace App\Models;
 
 class Course extends Content
 {
+    public string $duration = "";
+
+    public function __construct(array $data)
+    {
+        parent::__construct($data);
+        $this->duration = $data["duration"];
+    }
+
     public function toArray(): array
     {
         return [
@@ -13,6 +21,7 @@ class Course extends Content
             'image' => $this->image,
             'type' => $this->type,
             'status' => $this->completionStatus,
+            'duration' => $this->duration,
         ];
     }
 }
