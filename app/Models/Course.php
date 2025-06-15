@@ -22,6 +22,7 @@ class Course extends Content
             'type' => $this->type,
             'status' => $this->status,
             'duration' => $this->duration,
+            'recommenedLevels' => $this->recommenedLevels,
         ];
     }
 }

@@ -12,6 +12,7 @@ abstract class Content
     public string $image;
     public string $type;
     public array $status;
+    public array $recommenedLevels = [];
 
     protected array $statusMap = [
         'Not Enrolled' => [
@@ -44,6 +45,19 @@ abstract class Content
 
         $completionStatus = Arr::get($data, 'completionstatus');
         $this->status = $this->statusMap[$completionStatus] ?? [];
+
+        $this->setRecommendedLevels($data['customfields'] ?? []);
+    }
+
+    protected function setRecommendedLevels(array $customFields): void
+    {
+        foreach ($customFields as $field) {
+            if ($field['name'] === 'Recommended Levels') {
+                $decoded = json_decode($field['data'], true);
+                $this->recommenedLevels = is_array($decoded) ? $decoded : [];
+                break;
+            }
+        }
     }
 
     abstract public function toArray(): array;

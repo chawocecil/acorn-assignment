@@ -14,7 +14,7 @@ import { TypeIcon } from "./Icons";
 const sanitizeContent = (content = "") => content.replace(/<\/?script>/g, "");
 
 const CatalogueModal = ({ isOpen, data, onClose }) => {
-    const { type, title, status, summary } = data;
+    const { type, title, status, summary, recommenedLevels } = data;
 
     return (
         <Dialog open={isOpen} onClose={onClose} fullWidth maxWidth="md">
@@ -50,6 +50,18 @@ const CatalogueModal = ({ isOpen, data, onClose }) => {
                             __html: sanitizeContent(summary),
                         }}
                     />
+
+                    <Box mt={2}>
+                        <Typography variant="subtitle1" gutterBottom>
+                            Recommended Levels
+                        </Typography>
+
+                        {recommenedLevels.map((level, index) => (
+                            <Typography key={index} variant="body2">
+                                • {level}
+                            </Typography>
+                        ))}
+                    </Box>
                 </DialogContentText>
             </DialogContent>
         </Dialog>
