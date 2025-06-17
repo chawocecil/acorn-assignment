@@ -6,32 +6,16 @@ use Illuminate\Support\Arr;
 
 abstract class Content
 {
-    public string $id;
-    public string $fullname;
-    public string $summary;
-    public string $image;
-    public string $type;
-    public array $status;
-    public array $recommenedLevels = [];
+    protected string $id;
+    protected string $fullname;
+    protected string $summary;
+    protected string $image;
+    protected string $type;
+    protected int $cost;
+    protected array $tags = [];
+    protected string $category;
+    protected bool $isActive;
 
-    protected array $statusMap = [
-        'Not Enrolled' => [
-            'label' => 'Not Enrolled',
-            'color' => 'warning',
-        ],
-        'Not Started' => [
-            'label' => 'Enrolled',
-            'color' => 'info',
-        ],
-        'Started' => [
-            'label' => 'In Progress',
-            'color' => 'primary',
-        ],
-        'Completed' => [
-            'label' => 'Completed',
-            'color' => 'success',
-        ],
-    ];
 
     public function __construct(array $data)
     {
@@ -41,24 +25,33 @@ abstract class Content
         $this->summary = Arr::get($data, 'summary');
         $this->image = Arr::get($data, 'imageurl');
         $this->type = Arr::get($data, 'contenttype');
+        $this->cost = (int) Arr::get($data, 'cost');
         $this->completionStatus = Arr::get($data, 'completionstatus');
+        $this->category = Arr::get($data, 'category.name');
+        $this->isActive = Arr::get($data, 'contentstatus') === "Active";
 
-        $completionStatus = Arr::get($data, 'completionstatus');
-        $this->status = $this->statusMap[$completionStatus] ?? [];
-
-        $this->setRecommendedLevels($data['customfields'] ?? []);
+        $tags = Arr::get($data, 'tags', []);
+        $tagNames = array_column($tags, 'name');
+        $this->tags = array_merge($this->tags, $tagNames);
     }
 
-    protected function setRecommendedLevels(array $customFields): void
+    protected function baseAttributes(): array
     {
-        foreach ($customFields as $field) {
-            if ($field['name'] === 'Recommended Levels') {
-                $decoded = json_decode($field['data'], true);
-                $this->recommenedLevels = is_array($decoded) ? $decoded : [];
-                break;
-            }
-        }
+        return [
+            'id' => $this->id,
+            'cost' => $this->cost,
+            'title' => $this->fullname,
+            'summary' => $this->summary,
+            'image' => $this->image,
+            'type' => $this->type,
+            'bgColor' => $this->getBgColor(),
+            'category' => $this->category,
+            'tags' => $this->tags,
+            'isActive' => $this->isActive,
+        ];
     }
 
     abstract public function toArray(): array;
+
+    abstract protected function getBgColor(): string;
 }

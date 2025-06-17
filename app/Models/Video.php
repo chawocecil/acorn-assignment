@@ -4,17 +4,14 @@ namespace App\Models;
 
 class Video extends Content
 {
+
     public function toArray(): array
     {
-        return [
-            'id' => $this->id,
-            'title' => $this->fullname,
-            'summary' => $this->summary,
-            'image' => $this->image,
-            'type' => $this->type,
-            'status' => $this->status,
-            'bgColor' => 'secondary.dark',
-            'recommenedLevels' => $this->recommenedLevels,
-        ];
+        return $this->baseAttributes();
+    }
+
+    protected function getBgColor(): string
+    {
+        return 'secondary.dark';
     }
 }

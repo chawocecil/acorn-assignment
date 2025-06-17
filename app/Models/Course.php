@@ -9,21 +9,18 @@ class Course extends Content
     public function __construct(array $data)
     {
         parent::__construct($data);
-        $this->duration = $data["duration"];
+        $this->duration = $data["duration"] ?? '';
     }
 
     public function toArray(): array
     {
-        return [
-            'id' => $this->id,
-            'title' => $this->fullname,
-            'summary' => $this->summary,
-            'image' => $this->image,
-            'type' => $this->type,
-            'status' => $this->status,
+        return array_merge($this->baseAttributes(), [
             'duration' => $this->duration,
-            'bgColor' => 'secondary.light',
-            'recommenedLevels' => $this->recommenedLevels,
-        ];
+        ]);
+    }
+
+    protected function getBgColor(): string
+    {
+        return 'secondary.light';
     }
 }
