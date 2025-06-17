@@ -4,6 +4,8 @@ namespace App\Services;
 
 use App\Models\Course;
 use App\Models\LiveLearning;
+use App\Models\Video;
+use App\Models\Resource;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Http;
 
@@ -33,6 +35,8 @@ class CatalogueService
                 ->map(fn($item) => match ($item['contenttype'] ?? null) {
                     'Course' => (new Course($item))->toArray(),
                     'Live Learning' => (new LiveLearning($item))->toArray(),
+                    'Resource' => (new Resource($item))->toArray(),
+                    'Video' => (new Video($item))->toArray(),
                     default => null,
                 })
                 ->filter()
