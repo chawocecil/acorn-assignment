@@ -1,14 +1,16 @@
-import { Typography } from "@mui/material";
-import { LiveTv, LocalLibrary } from "@mui/icons-material";
+import { LiveTv, School, VideoLibrary, MenuBook } from "@mui/icons-material";
 
-export const TypeIcon = ({ type, duration, color }) =>
-    type === "Course" ? (
-        <>
-            <LocalLibrary color={color}/>
-            {duration ? (
-                <Typography variant="body2">{duration}</Typography>
-            ) : null}
-        </>
-    ) : (
-        <LiveTv color={color}/>
-    );
+export const TypeIcon = ({ type, color }) => {
+    switch (type) {
+        case "Live Learning":
+            return <LiveTv fontSize="small" />;
+        case "Course":
+            return <School fontSize="small" />;
+        case "Video":
+            return <VideoLibrary fontSize="small" />;
+        case "Resource":
+            return <MenuBook fontSize="small" />;
+        default:
+            return null;
+    }
+};
