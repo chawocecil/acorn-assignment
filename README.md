@@ -12,25 +12,30 @@
 
 ## 🚀 Installation
 1. Clone the repository
-```bash
-git clone https://github.com/chawocecil/acorn-assignment
-cd acorn-assignment
-```
+    ```bash
+    git clone https://github.com/chawocecil/acorn-assignment
+    cd acorn-assignment
+    ```
 2. Install Laravel dependencies
-```bash
-composer install
-```
+    ```bash
+    composer install
+    ```
 3. Install frontend dependencies
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
+4. Set up environment variables
+    ```bash
+    cp .env.example .env
+    ```
+    Then update the .env file with the required values.
 
 ## 🏃 Running the Project
 1. Start Laravel backend
-```bash
-php artisan serve
-```
+    ```bash
+    php artisan serve
+    ```
 2. Start React Frontend
-```bash
-npm run dev
-```
+    ```bash
+    npm run dev
+    ```
