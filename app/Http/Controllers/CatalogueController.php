@@ -7,7 +7,7 @@ use Log;
 
 class CatalogueController extends Controller
 {
-    public function __construct(protected CatalogueService $catalogueService)
+    public function __construct(protected CatalogueService $catalogueService, protected Log $logger)
     {
     }
     public function index()
@@ -16,7 +16,7 @@ class CatalogueController extends Controller
             $content = $this->catalogueService->getAll();
             return response()->json($content);
         } catch (\Exception $e) {
-            Log::error('Failed to retrieve catalogues', [
+            $this->logger->error('Failed to retrieve catalogues', [
                 'message' => $e->getMessage(),
                 'exception' => $e
             ]);

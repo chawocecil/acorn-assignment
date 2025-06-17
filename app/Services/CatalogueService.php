@@ -13,6 +13,24 @@ use Log;
 
 class CatalogueService
 {
+    protected function mapCatalogueItem(array $item): ?array
+    {
+        if (!isset($item['contenttype']) || !is_array($item)) {
+            return null;
+        }
+
+        return match ($item['contenttype'] ?? null) {
+            'Course' => (new Course($item))->toArray(),
+            'Live Learning' => (new LiveLearning($item))->toArray(),
+            'Resource' => (new Resource($item))->toArray(),
+            'Video' => (new Video($item))->toArray(),
+            default => function () use ($item) {
+                    Log::warning('Unknown content type: ' . json_encode($item));
+                    return null;
+                },
+        };
+    }
+
     public function getAll(): Collection
     {
 
@@ -26,21 +44,15 @@ class CatalogueService
             $response = Http::retry(2, 100)->withToken($apiKey)->get($url);
 
             if (!$response->successful()) {
-                return collect();
+                throw $response;
             }
 
             $items = data_get($response->json(), 'data.items', []);
 
             return collect($items)
-                ->map(fn($item) => match ($item['contenttype'] ?? null) {
-                    'Course' => (new Course($item))->toArray(),
-                    'Live Learning' => (new LiveLearning($item))->toArray(),
-                    'Resource' => (new Resource($item))->toArray(),
-                    'Video' => (new Video($item))->toArray(),
-                    default => null,
-                })
-                ->filter()
-                ->values();
+                    ->map(fn($item) => $this->mapCatalogueItem($item))
+                    ->filter()
+                    ->values();
 
         } catch (\Exception $e) {
             throw $e;
