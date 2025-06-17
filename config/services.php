@@ -35,4 +35,10 @@ return [
         ],
     ],
 
+    'acorn' => [
+        'api_key' => env('ACORN_API_KEY'),
+        'tenant_id' => env('ACORN_TENANT_ID'),
+        'base_url' => env('ACORN_BASE_URL')
+    ]
+
 ];
